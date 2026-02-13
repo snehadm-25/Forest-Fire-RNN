@@ -9,6 +9,7 @@ An end-to-end Deep Learning solution using **Bidirectional LSTMs** to classify w
 ## ✨ Key Features
 - **🧠 Advanced RNN Architecture**: Utilizes Bidirectional LSTMs with Batch Normalization for robust feature extraction from tabular data.
 - **🌐 Interactive Dashboard**: A premium, responsive Web UI built with Flask and Glassmorphism design aesthetics.
+- **🤗 Hugging Face Powered**: native Gradio-based interface included for seamless deployment to Hugging Face Spaces.
 - **⌨️ Smart CLI**: Interactive terminal prediction script that allows for real-time risk analysis.
 - **📊 Performance Ready**: Includes preprocessing pipelines, training curves, and automated model evaluation.
 
